@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+h2, h3, p, form, input, button, figure, legend {
+    font-family: "Reddit Mono", serif;
+    text-align: center;
+}
+
+li {
+    font-family: "Reddit Mono", serif;
+    text-align: center;
+}
